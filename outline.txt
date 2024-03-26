@@ -1,0 +1,27 @@
+I.	Welcome
+  a.	Introduction
+  b.	Topic Links
+  c.	Info and Contact
+II.	Stacks
+  a.	Introduction
+  b.	Behavior Explanation and Visualization
+  c.	Structure
+  d.	Big O and Syntax
+  e.	Common Use Cases
+  f.	Example
+  g.	Problem to Solve
+III.	Linked Lists
+  a.	Introduction
+  b.	Structure and Behavior
+  c.	Big O and Syntax
+  d.	Common Use Cases
+  e.	Example
+  f.	Problem to Solve
+IV.	Trees
+  a.	Introduction
+  b.	Structure Visualization
+  c.	Actual Structure
+  d.	Big O and Syntax
+  e.	Common Use Cases
+  f.	Example
+  g.	Problem to Solve
